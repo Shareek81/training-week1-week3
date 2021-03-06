@@ -1,0 +1,14 @@
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BL\obj\Debug\netstandard2.0\Employee3.BL.AssemblyInfoInputs.cache
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BL\obj\Debug\netstandard2.0\Employee3.BL.AssemblyInfo.cs
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BL\obj\Debug\netstandard2.0\Employee3.BL.csproj.CoreCompileInputs.cache
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BL\bin\Debug\netstandard2.0\Employee3.BL.deps.json
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BL\bin\Debug\netstandard2.0\Employee3.BL.dll
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BL\bin\Debug\netstandard2.0\Employee3.BL.pdb
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BL\bin\Debug\netstandard2.0\Employee3.DL.dll
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BL\bin\Debug\netstandard2.0\Employee3.DTO.dll
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BL\bin\Debug\netstandard2.0\Employee3.DL.pdb
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BL\bin\Debug\netstandard2.0\Employee3.DTO.pdb
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BL\obj\Debug\netstandard2.0\Employee3.BL.csprojAssemblyReference.cache
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BL\obj\Debug\netstandard2.0\Employee3.BL.csproj.CopyComplete
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BL\obj\Debug\netstandard2.0\Employee3.BL.dll
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BL\obj\Debug\netstandard2.0\Employee3.BL.pdb

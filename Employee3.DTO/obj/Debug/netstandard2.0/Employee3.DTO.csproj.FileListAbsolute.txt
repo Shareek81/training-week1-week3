@@ -1,0 +1,8 @@
+C:\Users\msharee\source\repos\LearnApp1\Employee3.DTO\bin\Debug\netstandard2.0\Employee3.DTO.deps.json
+C:\Users\msharee\source\repos\LearnApp1\Employee3.DTO\bin\Debug\netstandard2.0\Employee3.DTO.dll
+C:\Users\msharee\source\repos\LearnApp1\Employee3.DTO\bin\Debug\netstandard2.0\Employee3.DTO.pdb
+C:\Users\msharee\source\repos\LearnApp1\Employee3.DTO\obj\Debug\netstandard2.0\Employee3.DTO.AssemblyInfoInputs.cache
+C:\Users\msharee\source\repos\LearnApp1\Employee3.DTO\obj\Debug\netstandard2.0\Employee3.DTO.AssemblyInfo.cs
+C:\Users\msharee\source\repos\LearnApp1\Employee3.DTO\obj\Debug\netstandard2.0\Employee3.DTO.csproj.CoreCompileInputs.cache
+C:\Users\msharee\source\repos\LearnApp1\Employee3.DTO\obj\Debug\netstandard2.0\Employee3.DTO.dll
+C:\Users\msharee\source\repos\LearnApp1\Employee3.DTO\obj\Debug\netstandard2.0\Employee3.DTO.pdb

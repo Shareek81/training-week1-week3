@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cuQhPLrOQNJQm8xvimrxcZYtMA4uDdQEN+rL3d2IM8uKSzuGRGnjSGjJbJdFj9IwpV2pcrqLxPalXYj+qnxO7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msharee\\source\\repos\\LearnApp1\\Learn-App1.BL\\Learn-App1.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msharee\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\msharee\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

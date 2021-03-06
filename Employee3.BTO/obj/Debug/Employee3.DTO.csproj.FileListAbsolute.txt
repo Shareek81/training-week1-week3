@@ -1,0 +1,6 @@
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BTO\bin\Debug\Employee3.BTO.dll
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BTO\bin\Debug\Employee3.BTO.pdb
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BTO\obj\Debug\Employee3.DTO.csprojAssemblyReference.cache
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BTO\obj\Debug\Employee3.DTO.csproj.CoreCompileInputs.cache
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BTO\obj\Debug\Employee3.BTO.dll
+C:\Users\msharee\source\repos\LearnApp1\Employee3.BTO\obj\Debug\Employee3.BTO.pdb

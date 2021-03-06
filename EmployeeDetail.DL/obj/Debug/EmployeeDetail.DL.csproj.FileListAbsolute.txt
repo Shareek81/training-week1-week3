@@ -1,0 +1,9 @@
+C:\Users\msharee\source\repos\LearnApp1\EmployeeDetail.DL\bin\Debug\EmployeeDetail.DL.dll
+C:\Users\msharee\source\repos\LearnApp1\EmployeeDetail.DL\bin\Debug\EmployeeDetail.DL.pdb
+C:\Users\msharee\source\repos\LearnApp1\EmployeeDetail.DL\bin\Debug\Employee3.BTO.dll
+C:\Users\msharee\source\repos\LearnApp1\EmployeeDetail.DL\bin\Debug\Employee3.BTO.pdb
+C:\Users\msharee\source\repos\LearnApp1\EmployeeDetail.DL\obj\Debug\EmployeeDetail.DL.csprojAssemblyReference.cache
+C:\Users\msharee\source\repos\LearnApp1\EmployeeDetail.DL\obj\Debug\EmployeeDetail.DL.csproj.CoreCompileInputs.cache
+C:\Users\msharee\source\repos\LearnApp1\EmployeeDetail.DL\obj\Debug\EmployeeDetail.DL.csproj.CopyComplete
+C:\Users\msharee\source\repos\LearnApp1\EmployeeDetail.DL\obj\Debug\EmployeeDetail.DL.dll
+C:\Users\msharee\source\repos\LearnApp1\EmployeeDetail.DL\obj\Debug\EmployeeDetail.DL.pdb
